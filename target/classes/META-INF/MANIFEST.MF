@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Alex
+Build-Jdk: 13.0.2
+Implementation-Title: ESEO_TP_Server_maven
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/ESEO_TP_Server
+ _maven/
+Created-By: Maven Integration for Eclipse
+
